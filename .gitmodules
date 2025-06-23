@@ -1,0 +1,9 @@
+[submodule "Quiz-App-Frontend"]
+	path = Quiz-App-Frontend
+	url = https://github.com/adhamsaeed0500/Quiz-App-Frontend.git
+[submodule "Quiz-App-Backend"]
+	path = Quiz-App-Backend
+	url = https://github.com/adhamsaeed0500/Quiz-App-Backend.git
+[submodule "Quiz_App-Test"]
+	path = Quiz_App-Test
+	url = https://github.com/adhamsaeed0500/Quiz_App-Test.git
